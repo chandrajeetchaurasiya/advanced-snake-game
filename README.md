@@ -1,1 +1,1 @@
-python-project-collection
+python-projects
