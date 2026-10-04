@@ -1,1 +1,1 @@
-# advanced-snake-game
+snake-game
